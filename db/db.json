@@ -3,47 +3,56 @@
     {
       "id": 1,
       "slug": "breads",
-      "name": "Breads"
+      "name": "Breads",
+      "icon": "https://res.cloudinary.com/dyjj7r0o4/image/upload/v1689272036/sfood%20icon/sandwich_1_jtm3nt.svg"
     },
     {
       "id": 2,
       "slug": "burgers",
-      "name": "Burgers"
+      "name": "Burgers",
+      "icon": "https://res.cloudinary.com/dyjj7r0o4/image/upload/v1689272035/sfood%20icon/burger_yoderw.svg"
     },
     {
       "id": 3,
       "slug": "fried-chicken",
-      "name": "Fried Chicken"
+      "name": "Fried Chicken",
+      "icon": "https://res.cloudinary.com/dyjj7r0o4/image/upload/v1689272035/sfood%20icon/chicken-leg_gjm0gn.svg"
     },
     {
       "id": 4,
       "slug": "ice-cream",
-      "name": "Ice Cream"
+      "name": "Ice Cream",
+      "icon": "https://res.cloudinary.com/dyjj7r0o4/image/upload/v1689272035/sfood%20icon/ice-cream_u6s3oe.svg"
     },
     {
       "id": 5,
       "slug": "pizzas",
-      "name": "Pizzas"
+      "name": "Pizzas",
+      "icon": "https://res.cloudinary.com/dyjj7r0o4/image/upload/v1689272036/sfood%20icon/pizza-slice_lozvk0.svg"
     },
     {
       "id": 6,
       "slug": "sandwiches",
-      "name": "Sandwiches"
+      "name": "Sandwiches",
+      "icon": "https://res.cloudinary.com/dyjj7r0o4/image/upload/v1689272035/sfood%20icon/burger_yoderw.svg"
     },
     {
       "id": 7,
       "slug": "sausages",
-      "name": "Sausages"
+      "name": "Sausages",
+      "icon": "https://res.cloudinary.com/dyjj7r0o4/image/upload/v1689272036/sfood%20icon/sandwich_1_jtm3nt.svg"
     },
     {
       "id": 8,
       "slug": "steaks",
-      "name": "Steaks"
+      "name": "Steaks",
+      "icon": "https://res.cloudinary.com/dyjj7r0o4/image/upload/v1689272036/sfood%20icon/meat_ofl3t6.svg"
     },
     {
       "id": 9,
       "slug": "drink",
-      "name": "Drink"
+      "name": "Drink",
+      "icon": "https://res.cloudinary.com/dyjj7r0o4/image/upload/v1689272081/sfood%20icon/cola_wchkd1.svg"
     }
   ],
   "products": [
